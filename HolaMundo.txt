@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Hola Mundo 
 
 Chao Mundo 
@@ -6,3 +7,6 @@ Chao Mundo
 Cambio 
 cambio cambio 
 cambio que no quiero 
+=======
+Hola Mundo 
+>>>>>>> parent of 6a44073 (Todos los cambios que hicimos)
